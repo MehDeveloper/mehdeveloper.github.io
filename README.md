@@ -1,2 +1,2 @@
 # mehdeveloper.github.io
-A website about me.
+Just me goofing around
